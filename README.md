@@ -16,6 +16,7 @@ Through this repository, we curate a list of papers (and code) for video retriev
 
 ## 2018
 * Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos (ECCV) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bingbin_Liu_Temporal_Modular_Networks_ECCV_2018_paper.pdf)[[bibtex]](References/Liu_2018_ECCV.bib)
+* LAMV: Learning to align and match videos with kernelized temporal layers (CVPR) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Baraldi_LAMV_Learning_to_CVPR_2018_paper.pdf)[[bibtex]](References/Baraldi_2018_CVPR.bib)[[code]](https://github.com/facebookresearch/videoalignment)
 
 ## 2017
 * Near-Duplicate Video Retrieval with Deep Metric Learning (ICCV) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w5/Kordopatis-Zilos_Near-Duplicate_Video_Retrieval_ICCV_2017_paper.pdf)[[code]](https://github.com/MKLab-ITI/ndvr-dml)[[bibtex]](References/Kordopatis-Zilos_2017_ICCV.bib)
