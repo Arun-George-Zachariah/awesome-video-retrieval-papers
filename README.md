@@ -21,6 +21,9 @@ Through this repository, we curate a list of papers (and code) for video retriev
 ## 2017
 * Near-Duplicate Video Retrieval with Deep Metric Learning (ICCV) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w5/Kordopatis-Zilos_Near-Duplicate_Video_Retrieval_ICCV_2017_paper.pdf)[[code]](https://github.com/MKLab-ITI/ndvr-dml)[[bibtex]](References/Kordopatis-Zilos_2017_ICCV.bib)
 
+## 2015
+* Temporal Matching Kernel with Explicit Feature Maps (ACM MM) [[pdf]](https://dl.acm.org/doi/abs/10.1145/2733373.2806228)[[bibtex]](References/Poullot_2015_ACM_MM.bib)
+
 ## Contributing
 Please help contribute this list by creating a [pull request](https://github.com/Arun-George-Zachariah/awesome-video-retrieval-papers/pulls) with the markdown format:
 ```markdown
