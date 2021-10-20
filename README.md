@@ -7,9 +7,12 @@ Through this repository, we curate a list of papers (and code) for video retriev
 * Attention-Based Deep Metric Learning for Near-Duplicate Video Retrieval (ICPR) [[pdf]](https://www.microsoft.com/en-us/research/uploads/prod/2021/01/ICPR.pdf)[[bibtex]](https://www.microsoft.com/en-us/research/publication/attention-based-deep-metric-learning-for-near-duplicate-video-retrieval/bibtex/)
 * Mixer: Eficiently Understanding and Retrieving Visual Content at Web-scale (VLDB) [[pdf]](http://vldb.org/pvldb/vol14/p2906-xiao.pdf)[[bibtex]](https://scholar.googleusercontent.com/scholar.bib?q=info:-e4icowLdvMJ:scholar.google.com/&output=citation&scisdr=CgUg_NMHEI7z0ab-pOM:AAGBfm0AAAAAYUz7vOOXablT2H_UbDKfVVmM1Pj5UR0O&scisig=AAGBfm0AAAAAYUz7vNi2QWzNddsUX_RKDED_wZDMTBHA&scisf=4&ct=citation&cd=-1&hl=en)
 * DnS: Distill-and-Select for Efficient and Accurate Video Indexing and Retrieval [[ArXiv]](https://arxiv.org/pdf/2106.13266.pdf) [[code]](https://github.com/mever-team/distill-and-select)
+* Video Contrastive Learning with Global Context (ICCV-W) [[ArXiv]](https://arxiv.org/pdf/2108.02722.pdf)[[code]](https://github.com/amazon-research/video-contrastive-learning)
 
 ## 2020
 * Central Similarity Quantization for Efficient Image and Video Retrieval (CVPR) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Central_Similarity_Quantization_for_Efficient_Image_and_Video_Retrieval_CVPR_2020_paper.pdf)[[code]](https://github.com/yuanli2333/Hadamard-Matrix-for-hashing)[[bibtex]](References/Yuan_2020_CVPR.bib)
+* Self-supervised Video Representation Learning by Pace Prediction (ECCV) [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620494.pdf)[[code]](https://github.com/laura-wang/video-pace)[[bibtex]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-58520-4_30?format=bibtex&flavour=citation)
+* Memory-augmented Dense Predictive Coding for Video Representation Learning (ECCV) [[pdf]](https://link.springer.com/content/pdf/10.1007/978-3-030-58580-8_19.pdf)[[code]](https://github.com/TengdaHan/MemDPC)[[bibtex]](References/Han_2020_ECCV.bib)
 
 ## 2019
 * ViSiL: Fine-Grained Spatio-Temporal Video Similarity Learning (ICCV) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kordopatis-Zilos_ViSiL_Fine-Grained_Spatio-Temporal_Video_Similarity_Learning_ICCV_2019_paper.pdf)[[code]](https://github.com/MKLab-ITI/visil)[[bibtex]](References/Kordopatis-Zilos_2019_ICCV.bib)
