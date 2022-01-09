@@ -17,6 +17,8 @@ Through this repository, we curate a list of papers (and code) for video retriev
 
 ## 2019
 * ViSiL: Fine-Grained Spatio-Temporal Video Similarity Learning (ICCV) [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Kordopatis-Zilos_ViSiL_Fine-Grained_Spatio-Temporal_Video_Similarity_Learning_ICCV_2019_paper.pdf)[[code]](https://github.com/MKLab-ITI/visil)[[bibtex]](References/Kordopatis-Zilos_2019_ICCV.bib)
+* Video Representation Learning by Dense Predictive Coding (ICCV) [[pdf]](https://openaccess.thecvf.com/content_ICCVW_2019/papers/HVU/Han_Video_Representation_Learning_by_Dense_Predictive_Coding_ICCVW_2019_paper.pdf)[[code]](https://github.com/TengdaHan/DPC)[[bibtex]](Han_2019_ICCV.bib)
+
 
 ## 2018
 * Temporal Modular Networks for Retrieving Complex Compositional Activities in Videos (ECCV) [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bingbin_Liu_Temporal_Modular_Networks_ECCV_2018_paper.pdf)[[bibtex]](References/Liu_2018_ECCV.bib)
