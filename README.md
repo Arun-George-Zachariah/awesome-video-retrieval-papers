@@ -1,6 +1,9 @@
 # Awesome Video Retrieval Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Through this repository, we curate a list of papers (and code) for video retrieval, primarily with video as input.
 
+## 2022
+* Self-Supervised Video Representation Learning With Cross-Stream Prototypical Contrasting (WACV) [[pdf]](https://openaccess.thecvf.com/content/WACV2022/papers/Toering_Self-Supervised_Video_Representation_Learning_With_Cross-Stream_Prototypical_Contrasting_WACV_2022_paper.pdf)[[code]](https://github.com/martinetoering/ViCC)[[bibtex]](References/Toering_2022_WACV.bib)
+
 ## 2021
 * Temporal Context Aggregation for Video Retrieval with Contrastive Learning (WACV) [[pdf]](https://openaccess.thecvf.com/content/WACV2021/papers/Shao_Temporal_Context_Aggregation_for_Video_Retrieval_With_Contrastive_Learning_WACV_2021_paper.pdf)[[code]](https://github.com/xwen99/temporal_context_aggregation)[[bibtex]](References/Shao_2021_WACV.bib)
 * Towards Explainable Interactive Multi-modal Video Retrieval with Vitrivr (MMM) [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-67835-7_41.pdf)[[website]](https://www.vitrivr.org/)[[bibtex]](https://citation-needed.springer.com/v2/references/10.1007/978-3-030-67835-7_41?format=bibtex&flavour=citation) 
